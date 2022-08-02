@@ -9,7 +9,11 @@ para simplificar o código e auxiliar no desenvolvimento do jogo.
 das mecânticas do jogo, andar, colidir e adicionar objetos na fase.
 
 **Parte I - concluida**
-
+ - Z - start
+ - Direcionais movimentam o persoangem
+ 
+  _up_ | _left_ | _down_ | _right_
+ 
 [Demostração das funcionalidades - beta-demo](https://lancelotti-beta.github.io/tic80_fuga-das-sombras/)
 
 #### Para iniccializar a Demostração no PC
