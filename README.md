@@ -25,8 +25,9 @@ das mecânticas do jogo, andar, colidir e adicionar objetos na fase.
 
  ```
 
- >> load fuga.tic
- >> run
+> load fuga.tic
+
+> run
 
 ou basta abrir o executavel na pasta `game_alura/`
 
