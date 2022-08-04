@@ -9,7 +9,7 @@ para simplificar o código e auxiliar no desenvolvimento do jogo.
 das mecânticas do jogo, andar, colidir e adicionar objetos na fase.
 
 **Parte I - concluida**
- - Z - start
+ - Z  | Inicia o jogo & Ataca
  - Direcionais movimentam o persoangem
  
   _up_ | _left_ | _down_ | _right_
